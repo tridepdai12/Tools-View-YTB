@@ -22,10 +22,10 @@ def background():
     hehe="""
     ╔═════════════════════════════════════════════════════════╗
     ║                                                         ║
-    ║                      Trần xuân Lợi                      ║
+    ║                      Trí Vũ                      ║
     ║                                                         ║
     ║ Copy nhớ ghi nguồn                                      ║
-    ║ Zalo: 0387640248                            Editor: Lợi ║
+    ║                             Editor: Lợi ║
     ╚═════════════════════════════════════════════════════════╝         
     >>>>>>>>>>>>>>>>>>>>>> Tools View YTB <<<<<<<<<<<<<<<<<<<<<\n\n   """
 
@@ -43,7 +43,7 @@ def key_dung():
 logo="    -----------------------------------------------------------"
 background()
 key=input(" Nhập key: ")
-if key=="Lu TV" or "daukute":
+if key=="Lu TV" or "tridepdai":
     print(logo)
     key_dung()
     time.sleep(3)
